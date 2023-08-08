@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="8" started-at="2023-08-08T05:34:11Z" finished-at="2023-08-08T05:34:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8" started-at="2023-08-08T05:34:11Z" finished-at="2023-08-08T05:34:11Z">
+      <class name="qedge.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(qedge.AppTest)]" name="testApp" duration-ms="0" started-at="2023-08-08T05:34:11Z" finished-at="2023-08-08T05:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- qedge.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
